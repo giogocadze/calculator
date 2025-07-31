@@ -29,9 +29,10 @@ open index.html
 # or manually drag and drop it into your browser window
 ```
 🧱 Project Structure
-├── index.html       # Main HTML structure
-
-├── style.css        # Styling and layout
-
-├── script.js        # Calculator logic
+```bash
+.
+├── index.html     # Main HTML structure
+├── style.css      # Styling and layout
+├── script.js      # Calculator logic
+```
 
