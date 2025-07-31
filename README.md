@@ -30,6 +30,8 @@ open index.html
 ```
 🧱 Project Structure
 ├── index.html       # Main HTML structure
+
 ├── style.css        # Styling and layout
+
 ├── script.js        # Calculator logic
-└── screenshot.png   # Optional screenshot for README
+
